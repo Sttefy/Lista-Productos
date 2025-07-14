@@ -1,0 +1,38 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  margin: 30px;
+  background-color: #fcf7f7;
+  color: #000000;
+}
+
+h1 {
+  color: #80600a;
+}
+
+ul#product-list {
+  list-style: none;
+  padding: 0;
+}
+
+ul#product-list li {
+  background-color: #b3a3a3;
+  border: 1px solid #dbb4b4;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+
+#add-product-btn {
+  padding: 10px 15px;
+  font-size: 16px;
+  background-color: #5bce19;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#add-product-btn:hover {
+  background-color: #0b6d1f;
+}
